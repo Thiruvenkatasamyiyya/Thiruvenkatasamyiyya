@@ -39,8 +39,7 @@ Welcome to my GitHub profile!
 ![Thiruvenkatasamyiyya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiruvenkatasamyiyya&show_icons=true)
 
 ## 🔗 Connect with Me
-- [LinkedIn](your-link-here)
-- [Twitter](your-link-here)
+- [LinkedIn](https://www.linkedin.com/in/thiruvenkatasamyiyya/)
 
 ---
 
