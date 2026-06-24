@@ -9,10 +9,8 @@ Welcome to my GitHub profile!
 - 👨‍💻 Explore my projects below!
 
 ## 📂 Featured Projects
+- [Enterprise SOP Agent](https://github.com/Thiruvenkatasamyiyya/EnterpriseSOP)
 - [Airline Reservation System](https://github.com/Thiruvenkatasamyiyya/AirlineReservationSystem)
-- [Devpload Bootstrap](https://github.com/Thiruvenkatasamyiyya/devpload_bootstrap)
-- [Practice UseContext](https://github.com/Thiruvenkatasamyiyya/practiceUseContext)
-- [Zomato Clone](https://github.com/Thiruvenkatasamyiyya/zomato)
 - [AAMEC Feedback (Contributor)](https://github.com/karthinarine03/aamec-feedback)
 
 ## 🧰 Languages & Tools
